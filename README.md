@@ -11,22 +11,24 @@ A proposta inclui examinar detalhadamente os cases fornecidos, avaliar os pontos
 🛠️ Passos do Desafio
 Analisar Cases de Sucesso:
 
-Case H&R Block: Examine como essa empresa utilizou o Scrum para superar desafios e obter resultados notáveis. Identifique as estratégias adotadas, os benefícios conquistados e as lições aprendidas.
-Elaborar uma Resenha Crítica:
+Case Escolhido: H&R Block
+Neste desafio, foi selecionado o case da H&R Block para análise detalhada. O objetivo é compreender como a empresa utilizou o Scrum para superar desafios e alcançar resultados expressivos. A análise abordará:
 
-Escolha um dos casos de sucesso analisados.
-Avalie os resultados alcançados, identifique os pontos positivos e os aspectos que poderiam ser aprimorados.
-Destaque como o Scrum contribuiu para o sucesso do projeto.
+Estratégias Adotadas: As abordagens e práticas específicas que garantiram o sucesso da implementação do Scrum.
+Benefícios Conquistados: Os impactos positivos do Scrum nos processos e resultados do projeto.
+Lições Aprendidas: Os principais aprendizados que podem ser aplicados em outros contextos.
+Além disso, será elaborada uma Resenha Crítica, destacando os pontos fortes, oportunidades de melhoria, e como o Scrum contribuiu diretamente para o sucesso do case.
+
 🚀 Como Este Repositório Está Organizado?
-/analysis: Contém documentos com a análise detalhada dos casos de sucesso.
-/reviews: Resenhas críticas sobre cada case analisado, com insights e reflexões.
-README.md: Este arquivo explicativo sobre o propósito do repositório e os passos do desafio.
+Este repositório contém o arquivo em PDF com a resenha crítica da análise detalhada do case de sucesso escolhido.
+
 📚 Recursos e Aprendizados
 Durante a análise, foi possível observar:
 
 Benefícios do Scrum: Agilidade no gerenciamento de projetos, colaboração entre equipes e foco em entregas incrementais.
 Desafios comuns: Resistência à mudança e necessidade de adaptação cultural.
 Estratégias de sucesso: Integração de ferramentas ágeis, promoção da comunicação clara e foco em resultados iterativos.
+
 🤝 Contribuição
 Sinta-se à vontade para explorar os conteúdos deste repositório, sugerir melhorias ou compartilhar seus próprios insights sobre o uso do Scrum. Toda contribuição é bem-vinda!
 
