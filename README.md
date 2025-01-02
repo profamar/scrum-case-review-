@@ -22,6 +22,9 @@ Além disso, será elaborada uma Resenha Crítica, destacando os pontos fortes, 
 🚀 Como Este Repositório Está Organizado?
 Este repositório contém o arquivo em PDF com a resenha crítica da análise detalhada do case de sucesso escolhido.
 
+## Documentação
+Para mais detalhes, confira a resenha crítica no [PDF aqui] (https://github.com/profamar/scrum-case-review-/blob/main/Resenha%20Cr%C3%ADtica%20Aplica%C3%A7%C3%A3o%20do%20Scrum%20no%20Case%20de%20Sucesso%20da%20H%26R%20Block.pdf)
+
 📚 Recursos e Aprendizados
 Durante a análise, foi possível observar:
 
