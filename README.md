@@ -42,7 +42,7 @@ Sinta-se à vontade para explorar os conteúdos deste repositório, sugerir melh
 
 📧 Contato
 Se você deseja discutir os conteúdos ou colaborar neste repositório, entre em contato:
-[Seu Nome] | [seu.email@exemplo.com]
+Meu Linkedin (linkedin.com/in/márcia-soares-236974256)
 
 📂 Scrum Case Review: Um passo rumo à excelência na aplicação de metodologias ágeis! 💡
 
