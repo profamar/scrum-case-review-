@@ -1,4 +1,4 @@
-# 🌟 **Scrum Case Review: Analisando Cases de Sucesso** 🛠️✨  
+# 🌟 **Scrum Case Review: Analisando Cases de Sucesso** 🛠️  
 
 Bem-vindo(a) ao repositório **Scrum Case Review**! Este espaço foi criado para documentar e compartilhar insights sobre a aplicação prática do Scrum em casos de sucesso, com foco na análise crítica e no aprendizado contínuo.  
 
