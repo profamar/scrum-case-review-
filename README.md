@@ -1,6 +1,7 @@
 # 🌟 **Scrum Case Review: Analisando Cases de Sucesso** 🛠️  
 
-Bem-vindo(a) ao repositório **Scrum Case Review**! Este espaço foi criado para documentar e compartilhar insights sobre a aplicação prática do Scrum em casos de sucesso, com foco na análise crítica e no aprendizado contínuo.  
+## Projeto: Aplicação Prática do Scrum
+Este projeto, parte da certificação de Scrum Master oferecida pela DIO, foi criado para documentar e compartilhar insights sobre a aplicação prática do Scrum em casos de sucesso, com foco na análise crítica e no aprendizado contínuo.
 
 ---
 
