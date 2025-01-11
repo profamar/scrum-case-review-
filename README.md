@@ -31,6 +31,8 @@ Este repositório contém o arquivo em PDF com a resenha crítica da análise de
 
 📄 **Documentação:**  
 Confira a resenha crítica no [PDF aqui](https://github.com/profamar/scrum-case-review-/blob/main/Resenha%20Cr%C3%ADtica%20Aplica%C3%A7%C3%A3o%20do%20Scrum%20no%20Case%20de%20Sucesso%20da%20H%26R%20Block.pdf).  
+📄 **Documentação:**  
+Confira a resenha crítica no [PDF aqui](https://github.com/profamar/scrum-case-review-/raw/main/Resenha%20Crítica%20Aplicação%20do%20Scrum%20no%20Case%20de%20Sucesso%20da%20H&R%20Block.pdf).
 
 ---
 
