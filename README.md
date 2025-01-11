@@ -26,7 +26,6 @@ Neste desafio, foi selecionado o case da **H&R Block** para análise detalhada.
 Além disso, foi elaborada uma **Resenha Crítica**, destacando os pontos fortes, oportunidades de melhoria e como o Scrum contribuiu diretamente para o sucesso do case.  
 
 ---
-
 ## 🚀 **Como Este Repositório Está Organizado?**  
 Este repositório contém o arquivo em PDF com a resenha crítica da análise detalhada do case de sucesso escolhido.  
 
