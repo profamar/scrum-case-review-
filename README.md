@@ -5,7 +5,7 @@ Este projeto, parte da certificação de Scrum Master oferecida pela DIO, foi cr
 
 ---
 
-## 📌 **Objetivos do Desafio**  
+## 📌 **Objetivos**  
 ### 1️⃣ **Compreender a Aplicação do Scrum na Prática**  
 Explorar como a metodologia Scrum é implementada em cenários reais, destacando seus benefícios, desafios e impactos nos resultados dos projetos.  
 
@@ -14,7 +14,7 @@ Examinar detalhadamente os cases fornecidos, avaliar os pontos fortes e fracos d
 
 ---
 
-## 🛠️ **Passos do Desafio**  
+## 🛠️ **Passos**  
 ### **Analisar Cases de Sucesso: H&R Block**  
 Neste desafio, foi selecionado o case da **H&R Block** para análise detalhada.  
 
